@@ -1,0 +1,11 @@
+h1 {
+	font-weight: 75px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+p {
+	font-size: 45px;
+	line-height: 100px;
+	font-family: 'Sacramento', cursive;
+	letter-spacing: 2px;
+}
