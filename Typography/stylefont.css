@@ -9,3 +9,17 @@ p {
 	font-family: 'Sacramento', cursive;
 	letter-spacing: 2px;
 }
+a:link {
+	color: blue;
+	background-color: yellow;
+}
+
+a:visited {
+	color:red;
+	background-color: green;
+}
+
+a:hover {
+	color:pink;
+	background-color: brown;
+}
